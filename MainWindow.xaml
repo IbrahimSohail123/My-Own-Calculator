@@ -43,9 +43,8 @@
             <Button x:Name="buttonplus" Cursor="Hand" Content="+" Click="buttonplus_Click" Grid.Column="3" Width="110" Height="60"/>
             <Button x:Name="Buttonequals" Cursor="Hand" Content="=" Click="Buttonequals_Click" Grid.Row="3" Width="110" Height="60" Grid.Column="2"/>
         </Grid>
-        <Button x:Name="SettingsClick" Click="SettingsClick_Click" Cursor="Hand" Content="≡" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="64" Width="64"/>
-        <Label Visibility="Collapsed" Background="Transparent" x:Name="Settings" Content="" HorizontalAlignment="Left" Margin="6,79,0,0" VerticalAlignment="Top" Height="745" Width="145"/>
-        <Menu Margin="0,79,605,0"/>
+
+
 
 
     </Grid>

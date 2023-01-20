@@ -160,13 +160,6 @@ namespace OfficialCalculatorFor2023
             ResultOfEQUATION.Content = result;
         }
 
-        private void SettingsClick_Click(object sender, RoutedEventArgs e)
-        {
-            Settings.Visibility = Visibility.Visible;
-            this.Settings.Background = base.Background;
-
-            
-
-        }
+       
     }
 }
