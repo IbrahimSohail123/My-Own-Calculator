@@ -44,6 +44,7 @@
             <Button x:Name="Buttonequals" Cursor="Hand" Content="=" Click="Buttonequals_Click" Grid.Row="3" Width="110" Height="60" Grid.Column="2"/>
         </Grid>
 
+        
 
 
 
