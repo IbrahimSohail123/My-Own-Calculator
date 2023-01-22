@@ -1,0 +1,16 @@
+C:\Users\Ibrahim Sohail\Desktop\C# Projects\OfficialCalculatorFor2023\bin\Release\OfficialCalculatorFor2023.exe.config
+C:\Users\Ibrahim Sohail\Desktop\C# Projects\OfficialCalculatorFor2023\bin\Release\OfficialCalculatorFor2023.exe
+C:\Users\Ibrahim Sohail\Desktop\C# Projects\OfficialCalculatorFor2023\bin\Release\OfficialCalculatorFor2023.pdb
+C:\Users\Ibrahim Sohail\Desktop\C# Projects\OfficialCalculatorFor2023\obj\Release\OfficialCalculatorFor2023.csproj.AssemblyReference.cache
+C:\Users\Ibrahim Sohail\Desktop\C# Projects\OfficialCalculatorFor2023\obj\Release\OfficialCalculatorFor2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ibrahim Sohail\Desktop\C# Projects\OfficialCalculatorFor2023\obj\Release\MainWindow.g.cs
+C:\Users\Ibrahim Sohail\Desktop\C# Projects\OfficialCalculatorFor2023\obj\Release\App.g.cs
+C:\Users\Ibrahim Sohail\Desktop\C# Projects\OfficialCalculatorFor2023\obj\Release\OfficialCalculatorFor2023_MarkupCompile.cache
+C:\Users\Ibrahim Sohail\Desktop\C# Projects\OfficialCalculatorFor2023\obj\Release\OfficialCalculatorFor2023_MarkupCompile.lref
+C:\Users\Ibrahim Sohail\Desktop\C# Projects\OfficialCalculatorFor2023\obj\Release\MainWindow.baml
+C:\Users\Ibrahim Sohail\Desktop\C# Projects\OfficialCalculatorFor2023\obj\Release\OfficialCalculatorFor2023.g.resources
+C:\Users\Ibrahim Sohail\Desktop\C# Projects\OfficialCalculatorFor2023\obj\Release\OfficialCalculatorFor2023.Properties.Resources.resources
+C:\Users\Ibrahim Sohail\Desktop\C# Projects\OfficialCalculatorFor2023\obj\Release\OfficialCalculatorFor2023.csproj.GenerateResource.cache
+C:\Users\Ibrahim Sohail\Desktop\C# Projects\OfficialCalculatorFor2023\obj\Release\OfficialCalculatorFor2023.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim Sohail\Desktop\C# Projects\OfficialCalculatorFor2023\obj\Release\OfficialCalculatorFor2023.exe
+C:\Users\Ibrahim Sohail\Desktop\C# Projects\OfficialCalculatorFor2023\obj\Release\OfficialCalculatorFor2023.pdb

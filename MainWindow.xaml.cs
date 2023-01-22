@@ -100,7 +100,7 @@ namespace OfficialCalculatorFor2023
         // Calculate The User Equation
         private void Buttonequals_Click(object sender, RoutedEventArgs e)
         {
-            float result = 0.0f;
+            float result = float.Parse(ResultOfEQUATION.Content.ToString());
 
             num2 = ResultOfEQUATION.Content.ToString();
 
@@ -136,7 +136,7 @@ namespace OfficialCalculatorFor2023
 
                 try
                 {
-                    result = Convert.ToInt32(num1) - Convert.ToInt32(num2);
+                    result = float.Parse(num1) - float.Parse(num2);
                 }
                 catch (FormatException)
                 {
@@ -149,7 +149,7 @@ namespace OfficialCalculatorFor2023
 
                 try
                 {
-                    result = Convert.ToInt32(num1) / Convert.ToInt32(num2);
+                    result = float.Parse(num1) / float.Parse(num2);
                 }
                 catch (FormatException)
                 {
@@ -157,9 +157,7 @@ namespace OfficialCalculatorFor2023
                 }
             }
 
-            ResultOfEQUATION.Content = result;
+            (ResultOfEQUATION.Content) = result;
         }
-
-       
     }
 }
