@@ -105,7 +105,7 @@ namespace OfficialCalculatorFor2023
             num2 = ResultOfEQUATION.Content.ToString();
 
 
-            if (op == "x")
+            if (op == "x") 
             {
                 try
                 {
